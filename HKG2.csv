@@ -1,0 +1,10 @@
+﻿IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
+8.210.192.93,2053,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",148,11.83
+8.210.174.156,2053,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",165,11.48
+47.76.189.102,2083,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",337,8.46
+47.242.176.185,443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",144,7.99
+43.154.104.77,443,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",660,6.59
+8.210.9.129,2083,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",168,6.39
+8.210.174.156,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",187,5.67
+47.76.178.146,443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",465,5.60
+47.76.178.146,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",937,5.42
